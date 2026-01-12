@@ -2,7 +2,11 @@ package com.wisewallet.backend.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
+import lombok.Getter;
+import lombok.Setter;
 
+@Getter
+@Setter
 @Entity
 @Table(name = "transactions")
 public class Transaction extends BaseEntity {

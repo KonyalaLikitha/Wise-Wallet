@@ -173,3 +173,4 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 >>>>>>> c0c19819821029f2c8b1dbbf803b2c552e684a1d
+/.apt_generated_tests/
